@@ -10,7 +10,7 @@ namespace TestConsoleApplication1
     {
         static void Main(string[] args)
         {
-
+            var x = 0;
         }
     }
 }
